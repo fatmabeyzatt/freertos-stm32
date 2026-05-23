@@ -1,3 +1,6 @@
-build
+build/
 mx.scratch
-!.settings
+debug.log
+*.su
+.settings/
+.vscode/
